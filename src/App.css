@@ -3,7 +3,7 @@
 }
 
 body {
-  background-color: #f7f7f7;
+  background: url(./imgs/singapore.png);
   display: flex;
   flex-direction: column;
   align-items: center;

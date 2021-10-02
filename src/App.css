@@ -2,6 +2,8 @@
   box-sizing: border-box;
 }
 
+//body here//
+
 body {
   background: url(./imgs/singapore.png);
   display: flex;
